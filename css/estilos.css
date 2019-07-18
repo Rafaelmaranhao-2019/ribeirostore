@@ -1,0 +1,155 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+
+body{
+	/*background-color: #0064ff; /*cor de fundo*/
+	background-color: #0064ff;
+	color: #000000; /*cor do texto padrao*/
+	/*define o grupo de fonte padrĂ£o*/
+	font-family: arial, helvetica, sans-serif;
+	
+	
+	/*define a imagem de plano de fundo*/
+	background-image: url(../img/back.jpg);
+	
+	
+	/*bloqueia a repeticao da imagem de plano de fundo*/
+	background-repeat: no-repeat;
+	
+	
+	/*dimensione a imagem para ocupar toda a tela*/
+	background-size: 100% 100%;
+	
+	/*bloquear a rolagem do plano de fundo*/
+	background-attachment: fixed;
+	
+	
+}
+
+h1{
+	text-align:center; /*alinha ao centro da tela*/
+	color: #36648B;	
+	font-size:250%;
+}
+
+
+
+h2{
+	text-align: right;
+	
+}
+
+p1{
+	color: #FF0000;
+	
+}
+
+
+span{
+	color: #C0FF3E;
+	text-decoration: underline;
+	
+}
+
+header{
+       /*define a largura do elemento*/
+       width: 1024px;	   
+
+       /*define a altura do elemento*/
+	   height: 100px;
+	   
+	   /*cor de plano de fundo*/
+	   background-color: #ccc;
+	   /*afastando o conteudo da borda superior*/
+	   padding-top: 30px;
+	   
+	   /*centraliza o elemento na tela*/
+	   margin: 0 auto;
+	   
+	   
+	   
+
+}
+
+nav{
+	width: 1024px;
+	margin:0 auto;
+	background-color: #eedd82;
+	color: #000;
+	
+}
+
+
+
+section{
+       width: 1024px;
+       margin: 0 auto;	   
+
+}
+
+
+/*declarando classes em css*/
+.colunaTexto{
+	Width: 300px;
+    height: 600px;	
+	/*distribui o objeto a partir das bordas:esquerda ou direita*/
+	float: right;
+	
+	
+}
+
+
+.espaco{
+        margin-left: 8px;
+		margin-right: 8px;
+
+	
+}
+
+
+.imgColuna{
+           width: 170px;
+           height: 170px;		   
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*declarando identificadores em css*/
+#nomeDoIdentificador{}
+#p1{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+	
+}
+
+
+footer{
+	width: 2000px;
+	text-align: right;
+	height: 50%;
+	color: white;
+}
+
+
+
+
+
+
