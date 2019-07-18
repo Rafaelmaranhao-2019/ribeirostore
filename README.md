@@ -7,6 +7,9 @@ E um site de estudante do senac empresa meramente ilustrativo.
 
 **Trabalhamos com revenda de Televisores**
 
+A Ribeiros store é uma popular rede de varejo de televisões do Brasil. Foi fundada em 1952, em São Caetano do Sul, São Paulo, onde se localiza a matriz.
+Fundados po Rafael maran e julio maran em 2019 date 08/06/2019.
 
- 
+
+**Trabalhamos com revenda de Televisores** 
 
