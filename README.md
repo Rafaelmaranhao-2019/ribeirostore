@@ -1,8 +1,8 @@
 # ribeirostore
 ribeirostore
-
+E um site de estudante do senac empresa meramente ilustrativa.
 A Ribeiro Store
 
 
 
-É uma empresa de vendas de televisões
+Trabalhamos com revenda de Televisores
